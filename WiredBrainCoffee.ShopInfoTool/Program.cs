@@ -34,6 +34,10 @@ namespace WiredBrainCoffee.ShopInfoTool
                         Console.WriteLine($"> " + coffeeShop.Location);
                     }
                 }
+                else
+                {
+                    Console.WriteLine("Nothing was found");
+                }
             }
 
         }
