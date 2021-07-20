@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.ShopInfoTool", "WiredBrainCoffee.ShopInfoTool.csproj", "{621F85C3-9C8F-4487-B86B-981CD8C3792C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.DataAccess", "..\WiredBrainCoffee.DataAccess\WiredBrainCoffee.DataAccess.csproj", "{8EFD53C2-1CFC-4650-9AD3-470297C51C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621F85C3-9C8F-4487-B86B-981CD8C3792C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621F85C3-9C8F-4487-B86B-981CD8C3792C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621F85C3-9C8F-4487-B86B-981CD8C3792C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621F85C3-9C8F-4487-B86B-981CD8C3792C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFD53C2-1CFC-4650-9AD3-470297C51C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFD53C2-1CFC-4650-9AD3-470297C51C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFD53C2-1CFC-4650-9AD3-470297C51C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFD53C2-1CFC-4650-9AD3-470297C51C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4997B201-3B65-498C-9E3E-FFF622D3ADA3}
+	EndGlobalSection
+EndGlobal
