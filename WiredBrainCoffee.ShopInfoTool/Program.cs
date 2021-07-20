@@ -20,6 +20,7 @@ namespace WiredBrainCoffee.ShopInfoTool
 
                 if (string.Equals("quit", line, StringComparison.OrdinalIgnoreCase))
                 {
+
                     break;
                 }
 
